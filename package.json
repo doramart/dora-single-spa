@@ -1,5 +1,5 @@
 {
-  "name": "single-spa-vue",
+  "name": "dora-single-spa",
   "version": "1.10.0",
   "description": "a single-spa plugin for vue.js applications",
   "main": "lib/single-spa-vue.js",
