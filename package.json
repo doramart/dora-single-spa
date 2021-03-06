@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/single-spa/single-spa-vue.git"
+    "url": "git+https://github.com/doramart/dora-single-spa.git"
   },
   "files": [
     "lib",
@@ -36,9 +36,9 @@
   "author": "single-spa core team",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/single-spa/single-spa-vue/issues"
+    "url": "https://github.com/doramart/dora-single-spa/issues"
   },
-  "homepage": "https://github.com/single-spa/single-spa-vue#readme",
+  "homepage": "https://github.com/doramart/dora-single-spa#readme",
   "devDependencies": {
     "@babel/core": "^7.8.4",
     "@babel/preset-env": "^7.8.4",
