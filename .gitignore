@@ -3,7 +3,6 @@ logs
 *.log
 npm-debug.log*
 package-lock.json
-pnpm-lock.yaml
 
 # Runtime data
 pids
@@ -37,5 +36,4 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
-
-dist
+lib
